@@ -252,7 +252,7 @@ header button {
   grid-column: 3 /span 8;
   grid-row: 4;
   margin:0;
-  padding:
+  padding-top: 2rem;
 }
   }
 
